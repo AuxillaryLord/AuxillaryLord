@@ -4,7 +4,7 @@
 <!--<p align="center"><img  alt="banner" src="https://pbs.twimg.com/profile_banners/1209749764146786305/1645560557/600x200" /></p>-->
 
 
-I'm Yash Jaiswal,a Blockchain Enthusiast & Passionate Web Developer from India. I spend most of time coding outstanding project.
+I'm Yash Jaiswal,a Blockchain Enthusiast & Passionate Web Developer from India. I spend most of time coding outstanding projects.
 
 
 ![Profile views](https://gpvc.arturio.dev/AuxillaryLord)  
@@ -37,8 +37,8 @@ I'm Yash Jaiswal,a Blockchain Enthusiast & Passionate Web Developer from India. 
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
    <img align="left"  width="40px"  src="https://user-images.githubusercontent.com/44005233/120921731-9e8ecf80-c6e2-11eb-9ea1-aa04f03ced2e.png" alt="Bootstrap" />
-   <img align="left" width="50px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Mysql" /> 
- <img align="left" alt="Git" width="40px"  src="https://www.logo.wine/a/logo/Solidity/Solidity-Logo.wine.svg" alt="Solidity" />
+   <img align="left" width="70px" height="40px"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Mysql" /> 
+ <img align="left" alt="Git" width="40px" height="60px" src="https://www.logo.wine/a/logo/Solidity/Solidity-Logo.wine.svg" alt="Solidity" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
