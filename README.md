@@ -47,14 +47,14 @@ I'm Yash Jaiswal,a Blockchain Enthusiast & Passionate Web Developer from India. 
 <br />
 <hr />
   
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AuxillaryLord&show_icons=true&locale=en&theme=onedark" alt="AuxillaryLord" /></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AuxillaryLord&show_icons=true&locale=en" alt="AuxillaryLord" /></p>
 
 <details align="center">
   <summary>:zap: More about Profile</summary>
    <br />
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=AuxillaryLord&theme=tokyonight" alt="AuxillaryLord" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=AuxillaryLord" alt="AuxillaryLord" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AuxillaryLord&theme=juicyfresh" alt="AuxillaryLord" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AuxillaryLord" alt="AuxillaryLord" /></a> </p>
 
 </details>
   <br />
