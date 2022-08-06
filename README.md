@@ -21,10 +21,14 @@ I'm Yash Jaiswal,a Blockchain Enthusiast & Passionate Web Developer from India. 
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
 <a href="https://www.linkedin.com/in/9198-yash-jaiswal/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="9198-yash-jaiswal" height="40" width="40" /></a>
 <a href="https://www.instagram.com/think.better_than_me/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/instagram.svg" alt="think.better_than_me" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/jdonyash/" target="_blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="Yash Jaiswal" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/jdonyash/" target="_blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="Yash Jaiswal" height="40" width="40" /></a> -->
+
+<a href="https://www.linkedin.com/in/9198-yash-jaiswal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdoyash@gmail.com)
+<a href="https://twitter.com/Cipher512_"><img src="https://img.shields.io/badge/twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
  
 
 <br />
