@@ -5,9 +5,7 @@
 
 
 I'm Yash Jaiswal,a Blockchain Enthusiast & Passionate Web Developer from India. I spend most of time coding outstanding projects.
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F76800FF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋🏻+I'm+Aryaman;+Open+Source+Enthusiast+☀;Full+Stack+Developer+💻;">
-</p>
+
 
 
 ![Profile views](https://gpvc.arturio.dev/AuxillaryLord)  
