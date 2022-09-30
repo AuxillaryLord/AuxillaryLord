@@ -65,6 +65,7 @@ I'm Yash Jaiswal,a Blockchain Enthusiast & Passionate Web Developer from India. 
   <br />
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
+[![@auxillarylord's Holopin board](https://holopin.io/api/user/board?user=auxillarylord)](https://holopin.io/@auxillarylord)
 
 <!--
 **durgesh2001/durgesh2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
